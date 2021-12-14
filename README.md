@@ -7,3 +7,4 @@ allo
 fou
 solution trouvee
 why not
+il ne vut pas
