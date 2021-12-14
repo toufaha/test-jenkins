@@ -5,3 +5,4 @@ un 3eme essaie
 un 4eme essaie
 allo
 fou
+solution trouvee
