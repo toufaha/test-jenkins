@@ -1,10 +1,7 @@
-# test-jenkins pour tester jenkins
-
-un 2eme test
-un 3eme essaie
-un 4eme essaie
-allo
-fou
-solution trouvee
-why not
-il ne vut pas
+<?xml version="1.0" encoding="utf-8" ?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="Build">
+    <Message Text="Building msbuildintro" />
+    <MSBuild Projects="msbuildintro.csproj" Targets="Build" />
+  </Target>
+</Project>
